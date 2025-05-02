@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Krintox&color=blue&label=PROFILE+VIEWS)
 
 - 🔭 **B.Tech CSE (Data Science)** @ VIT Vellore '25
-- 🛠️ **Projects Head** at ISTE-VIT | **Ex-Bhash Software Labs**
+- 🛠️ **Projects Head** at ISTE-VIT | **SaaS enthusiast**
 - 💡 Passionate about building **scalable SaaS** and **startup-ready solutions**
 - 🌱 Currently exploring **Spring Boot microservices** and **Golang**
 - 🚀 **Hackathon winner** (Smart India Hackathon '22, NMIMS Blockchain Challenge)
