@@ -55,6 +55,6 @@
 [<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="32px">][twitter]
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="32px">][email]
 
-[linkedin]: https://linkedin.com/in/shashank-suggala
-[twitter]: https://twitter.com/ShashankSuggala
+[linkedin]: https://www.linkedin.com/in/shashank-suggala-7ab488200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[twitter]: https://x.com/ShashankSUggala
 [email]: mailto:shashanktsx@gmail.com
