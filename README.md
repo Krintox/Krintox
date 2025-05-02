@@ -8,7 +8,7 @@
 - 🛠️ **Projects Head** at ISTE-VIT | **SaaS enthusiast**
 - 💡 Passionate about building **scalable SaaS** and **startup-ready solutions**
 - 🌱 Currently exploring **Spring Boot microservices** and **Golang**
-- 🚀 **Hackathon winner** (Smart India Hackathon '22, NMIMS Blockchain Challenge)
+- 🚀 **Hackathon winner** (NMIMS Blockchain Challenge) | **Finalist** (Smart India Hackathon '22)
 
 ```diff
 + Recent Focus: MENN Stack | Web3 Development | ML Integration
