@@ -11,7 +11,7 @@
 - 🚀 **Hackathon winner** (Smart India Hackathon '22, NMIMS Blockchain Challenge)
 
 ```diff
-+ Recent Focus: MERN Stack | Web3 Development | IoT Integration
++ Recent Focus: MENN Stack | Web3 Development | ML Integration
 ```
 
 ## 🔨 Featured Projects
@@ -58,5 +58,3 @@
 [linkedin]: https://linkedin.com/in/shashank-suggala
 [twitter]: https://twitter.com/ShashankSuggala
 [email]: mailto:shashanktsx@gmail.com
-
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/cool.gif' width='200'/>
