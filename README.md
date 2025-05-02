@@ -1,6 +1,6 @@
 # Hey, I'm Shashank Suggala 👋
 <h2>Full-Stack Developer | Blockchain Enthusiast | Builder</h2>
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif' width='200'>
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/spidertocat.png' width='200'>
 
 ![](https://komarev.com/ghpvc/?username=Krintox&color=blue&label=PROFILE+VIEWS)
 
