@@ -11,7 +11,7 @@
 - 🚀 **Hackathon winner** (NMIMS Blockchain Challenge) | **Finalist** (Smart India Hackathon '22)
 
 ```diff
-+ Recent Focus: MENN Stack | Web3 Development | ML Integration
++ Recent Focus: SpringBoot and Go | MENN Stack | ML Integration
 ```
 
 ## 🔨 Featured Projects
