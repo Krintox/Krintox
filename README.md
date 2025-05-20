@@ -2,7 +2,6 @@
 <h2>Full-Stack Developer | Blockchain Enthusiast | Builder</h2>
 <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/spidertocat.png' width='200'>
 
-![](https://komarev.com/ghpvc/?username=Krintox&color=blue&label=PROFILE+VIEWS)
 
 - 🔭 **B.Tech CSE (Data Science)** @ VIT Vellore '25
 - 🛠️ **Projects Head** at ISTE-VIT | **SaaS enthusiast**
