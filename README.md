@@ -1,4 +1,4 @@
-# Shashank Suggala
+# Hey, I'm Shashank Suggala 👋
 ### Full-Stack Engineer · Co-founder & CTO @ YUGA · Builder
 
 > *"Don't just build features. Build moats."*
