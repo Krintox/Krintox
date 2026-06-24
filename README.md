@@ -17,7 +17,7 @@ A championship management platform I co-founded and built as CTO — handling at
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| **[YUGA](https://joinyuga.com)** | MERN · WebSockets · Next.js | Championship management for the global Yogasana community |
+| **[YUGA](https://joinyuga.com)** | Node · WebSockets · Next.js · Postgres | Championship management for the global Yogasana community |
 | **[VeriDuce]** | React · Node · Solidity | Blockchain-based carbon credit marketplace |
 | **[Dashion]** | MERN Stack | Print-on-demand e-commerce platform |
 | **[OrderFlux]** | Spring Boot · Next.js | Scalable order management system |
