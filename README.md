@@ -8,7 +8,7 @@
 ## 🏆 What I've Shipped
 
 **[YUGA — Yogasana Universal Grading & Analytics](https://joinyuga.com)**  
-A championship management platform I co-founded and built as CTO — handling athlete registration, live scoring, judging, leaderboards, and real-time analytics. Deployed at the **1st World Yogasana Championship** with **1,000+ users** across **80 countries**.  
+A championship management platform I co-founded and built as CTO — handling athlete registration, live scoring, judging, leaderboards, and real-time analytics. Deployed at the **1st World Yogasana Championship** with **1000+ users** across **60+ countries**.  
 → [Live Analytics Dashboard](http://championship.worldyogasana.org/analytics)
 
 ---
